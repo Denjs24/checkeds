@@ -1,0 +1,25 @@
+
+
+@media screen and (max-width: 1150px) {
+  header{
+    height: auto;
+  }
+  header p{
+    margin: 60px 0px 60px;
+  }
+  nav{
+    display: block;
+  }
+  .menu img{
+    display: inline;
+  }
+  #nav-menu {
+    display: none;
+  }
+  #nav-menu li a{
+    color: #505050;
+  }
+  #nav-menu li{
+    display: block;
+  }
+}
